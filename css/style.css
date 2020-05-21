@@ -1,0 +1,23 @@
+.main_logo {
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    font-size: 60px;
+    font-family: 'BMEULJIRO';
+}
+
+.sub_logo {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: 30px;
+    color: #C7004C;
+    font-family: 'BMEULJIRO';
+}
+
+@font-face { 
+    font-family: 'BMEULJIRO'; 
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_twelve@1.0/BMEULJIRO.woff') format('woff'); 
+    font-weight: normal; 
+    font-style: normal;
+}
